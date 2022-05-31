@@ -1,0 +1,64 @@
+*{
+    margin: 3px;
+    padding: 0px;
+}
+.nul{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+}
+.nam{
+    display: flex;
+    align-items: center;
+}
+.nul img{
+    width: 50px;
+    border-radius: 50%;
+}
+.name{
+    font-size: xx-large;
+    
+    color: rgb(183, 35, 228);
+}
+
+    
+
+main{
+    font-size: small;
+    color: rgb(114, 112, 112);
+}
+.img{
+    float: right;
+}
+.to{
+    text-align: center;
+}
+.ot{
+    text-align: center;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.ui{
+    text-align: center;
+    color: rgb(148, 0, 0)
+}
+.gh{
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    text-align: center;
+    color: black;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-image: url(/images/html-tutorial-beginners-header.jpg);
+    background-repeat: no-repeat;
+    height: 70vh;
+    width: 100vw;
+    background-position: center;
+    
+}
+ 
